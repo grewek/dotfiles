@@ -9,3 +9,4 @@ My dotfiles and personal configurations.
 ## TODO (In Progress)
 
 - [ ] Translating old NVIM configs into lua
+- [ ] Throwing out old NVIM Plugins and replacing them with new shiny Plugins i never used before
